@@ -1,7 +1,7 @@
 # ME325-Low-Cost Lightweight Tea Leaf Collection Bucket
 
-## Author
-Team Ergonomics ( E/21/037 | E/21/094 | E/21/365)
+## 👥Team Ergonomics
+( E/21/037 | E/21/094 | E/21/365)
 
 ## 📌Project Overview
 **Need:** To design, build, and test a ventilated and ergonomically structured tea leaf collection bucket to study the mechanisms of heat reduction and load distribution.
